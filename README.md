@@ -1,16 +1,8 @@
-# flutter_boilerplate
+# Flutter Boilerplate
 
-A new Flutter project.
 
-## Getting Started
+## How to contribute
 
-This project is a starting point for a Flutter application.
+No rules for now. Feel free to add issue first and optionally submit a PR. Cheers
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Conventional Commits Reference](https://www.conventionalcommits.org/en/v1.0.0/#specification)
